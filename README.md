@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @LilaJagne
+l:- 👋 Hi, I’m @LilaJagne
 - 👀 I’m interested in ...learning new skills, culinary arts and tech
 - 🌱 I’m currently learning ...how to code JavaScript
 - 💞️ I’m looking to collaborate on ...projects and creating code together
-- 📫 How to reach me ...slacks or linkedin https://www.linkedin.com/mynetwork/
+- 📫 How to reach me ... email: jagne104@gmail.com or linkedin https://www.linkedin.com/mynetwork/
 
 <!---
 LilaJagne/LilaJagne is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
